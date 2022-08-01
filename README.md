@@ -60,7 +60,7 @@ npm run seed
 * The application will be invoked with the following command: This will start localhost server on PORT 3001.
 
 
-`npm run seed`  `npm start`
+`npm run seeds`  `npm start`
 
 * To see more details: [Screencastify](https://drive.google.com/file/d/1oi_GxWCvfIKpnQhdlFq5aZu1uVsNShr3/view)
 
